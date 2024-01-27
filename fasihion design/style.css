@@ -1,0 +1,147 @@
+body{
+    background-color: #c2efd4;
+}
+h1{
+    color: #1a401f;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    margin-left: 50px;
+}
+.nav-link{
+    width: 900px;
+    display: flex;
+    align-items: center;
+}
+.nav-link > a{
+    margin: 20px;
+    text-decoration: none;
+    color: #1a401f;
+}
+.nav-link > img{
+    margin-left: 150px;
+}
+.login-btn{
+    width:100px;
+    border: 2px solid #1a401f;
+    background-color: #c2efd4;
+    margin-left: 50px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 350px;
+    margin-top: 50px;
+}
+.container-img{
+    width: 350px;
+    padding: 70px;
+}
+.content-para{
+    margin-bottom: 120px; ;
+    padding: 30px;
+}
+.content-para > h2{
+    font-size: 45px;
+    color: #1a401f;
+    padding: 20px;
+}
+.content-para > p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+.content-para > button{
+    background-color: #1a401f;
+    color: white;
+    padding: 10px;
+    width: 150px;
+    margin-left: 20px;
+}
+.container-2{
+    background-color: #fff;
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.container-2 > h2{
+    font-size: 30px;
+    padding: 20px;
+}
+.card-img{
+    border: 2px solid #1a401f ;
+    background-color: #c2efd4;
+    width: 280px;
+    text-align: center;
+}
+.main-cont-2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+}
+.container-2 > button{
+    width: 100px;
+    color: #1a401f;
+    border: 2px solid  #1a401f;
+    background-color: #fff;
+    padding: 10px;
+}
+.container-3{
+    background-color: #fff;
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+}
+.container-3 > a{
+    text-decoration: none;
+    color: #1a401f;
+    margin: 20px;
+    padding: 20px;
+}
+.card-img-2{
+    border: 2px solid #1a401f ;
+    background-color: #fff;
+    width: 280px;
+    text-align: center;
+}
+.cont-04{
+    background-color: #fff;
+    padding: 50px;
+}
+.container-4{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 50px;
+    background-color: #c2efd4;
+}
+.sub-cont-4{
+    font-size: 20px;
+}
+.sub-cont-4 > h2{
+    font-size: 40px;
+}
+.sub-cont-4 > button{
+    margin: 20px;
+}
+.btn-div{
+    display: flex;
+    justify-content: space-evenly;
+    width: 300px;
+}
+.buy-btn{
+    background-color: #1a401f;
+    color: white;
+    padding: 10px;
+}
+.container-5{
+    background-color: #fff;
+    margin-top: 50px;
+    text-align: center;
+    padding: 20px;
+}
